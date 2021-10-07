@@ -1,0 +1,3 @@
+[submodule "lab_sheets_public"]
+	path = lab_sheets_public
+	url = https://github.com/uob-COMS30035/lab_sheets_public.git
